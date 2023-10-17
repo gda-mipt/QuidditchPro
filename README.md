@@ -1,7 +1,8 @@
 # QuidditchPro
 ## Best app to record your achievements!
-### version 0.1 for Windows
-### Gribanov Daniil MIPT B05-112 17.10.2023
+**version 0.1 for Windows**
+**Gribanov Daniil Artemovich MIPT B05-112 17.10.2023**
+**Client App Task for 17.10.2023**
 
 ## Description
 App is collecting data about teams, players in data base (currently xlsx file). 
@@ -28,6 +29,10 @@ If there are any problems, find solution in the Internet
 3. Launch `QuidditchPro.bat` and wait for a while: program needs to install all necessary libraries. 
 Do not worry, launch takes such much time only on the first time.
 4. If all done correctly, you will see a window with some notes and other things.
+
+**Alternatively**:
+`pip install -r requirements.txt`
+`python main.py`
 
 ## Warning
 Do not edit data directory and any files there!
