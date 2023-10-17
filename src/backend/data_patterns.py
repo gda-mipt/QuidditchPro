@@ -1,0 +1,1 @@
+teams_pattern = ['team_name', 'player_name', 'treat', 'disease', 'role', 'state']
