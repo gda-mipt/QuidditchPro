@@ -1,7 +1,9 @@
 # QuidditchPro
 ## Best app to record your achievements!
 **version 0.1 for Windows**
+
 **Gribanov Daniil Artemovich MIPT B05-112 17.10.2023**
+
 **Client App Task for 17.10.2023**
 
 ## Description
